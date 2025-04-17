@@ -16,6 +16,7 @@ pm uninstall --user 0 com.google.android.gm
 pm uninstall --user 0 com.google.android.googlequicksearchbox
 pm uninstall --user 0 com.google.android.marvin.talkback
 pm uninstall --user 0 com.google.android.music
+pm uninstall --user 0 com.google.android.tts
 pm uninstall --user 0 com.google.android.videos
 pm uninstall --user 0 com.google.android.youtube
 pm uninstall --user 0 com.realvnc.android.remote
